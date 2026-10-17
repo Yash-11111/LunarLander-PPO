@@ -1,0 +1,3 @@
+swig
+gymnasium
+stable-baselines3[box2d]

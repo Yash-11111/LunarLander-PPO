@@ -1,0 +1,12 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Model checkpoints and training logs
+*.zip
+
+models/
+
